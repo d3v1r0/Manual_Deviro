@@ -70,7 +70,7 @@ Furthermore, your squad also requires a minimum amount of players before you can
 | **Machine Gunner** | 6 |
 | **Marksman** | 6 |
 | **Anti-Personnel Rifleman** | 4 |
-| **Spotter** | 2 |
+| **Spotter** | 3 |
 | **Combat Engineer** | 3 |
 | **Anti-Air Rifleman** | 3 |
 | **Sniper** | 3 |
